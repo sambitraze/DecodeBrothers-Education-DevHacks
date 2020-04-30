@@ -1,5 +1,5 @@
 ## Decode Brothers - Education
-![Image description](unamed.png)
+![Image description](https://github.com/sambitraze/DecodeBrothers-Education-DevHacks/blob/master/unnamed.png)
 ### Project Overview
 ----------------------------------
 
