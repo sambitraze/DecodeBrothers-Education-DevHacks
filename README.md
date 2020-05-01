@@ -20,10 +20,13 @@ the startups.
 
 #### Technical Description
 
+For now only protoype design is done 
+
 An overview of 
-* Flutter - for app dev
+* Flutter - for app dev 
 * Adobe XD - for prototyping
 * CLick on given link to see the video of prototype
+https://bit.ly/educa-prototype
 
 
 ### Team Members
